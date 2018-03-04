@@ -7,7 +7,7 @@ dependencies:
   - seaborn
   - scikit-learn
   - ipykernel
-  # - pip:
+  #- pip:
   #   - xgboost
 prefix: /Users/jonathan/anaconda/envs/wining-and-mining
 
